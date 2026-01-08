@@ -1,0 +1,266 @@
+# NeetCode 150 - Todo List
+
+## 📊 Progress Summary
+- **Total Problems**: 150
+- **Easy**: 0/28
+- **Medium**: 0/101
+- **Hard**: 0/21
+
+---
+
+## 1️⃣ Arrays & Hashing (9/9)
+
+- [ ] Contains Duplicate
+- [ ] Valid Anagram
+- [ ] Two Sum
+- [ ] Group Anagrams
+- [ ] Top K Frequent Elements
+- [ ] Product of Array Except Self
+- [ ] Valid Sudoku
+- [ ] Encode and Decode Strings
+- [ ] Longest Consecutive Sequence
+
+---
+
+## 2️⃣ Two Pointers (5/5)
+
+- [ ] Valid Palindrome
+- [ ] Two Sum II - Input Array Is Sorted
+- [ ] 3Sum
+- [ ] Container With Most Water
+- [ ] Trapping Rain Water
+
+---
+
+## 3️⃣ Sliding Window (6/6)
+
+- [ ] Best Time to Buy and Sell Stock
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Longest Repeating Character Replacement
+- [ ] Permutation In String
+- [ ] Minimum Window Substring
+- [ ] Sliding Window Maximum
+
+---
+
+## 4️⃣ Stack (6/7)
+
+- [ ] Valid Parentheses
+- [ ] Min Stack
+- [ ] Evaluate Reverse Polish Notation
+- [ ] Generate Parentheses
+- [ ] Daily Temperatures
+- [ ] Car Fleet
+- [ ] Largest Rectangle In Histogram
+
+---
+
+## 5️⃣ Binary Search (7/7)
+
+- [ ] Binary Search
+- [ ] Search a 2D Matrix
+- [ ] Koko Eating Bananas
+- [ ] Search In Rotated Sorted Array
+- [ ] Find Minimum In Rotated Sorted Array
+- [ ] Time Based Key Value Store
+- [ ] Median of Two Sorted Arrays
+
+---
+
+## 6️⃣ Linked List (11/11)
+
+- [ ] Reverse Linked List
+- [ ] Merge Two Sorted Lists
+- [ ] Reorder List
+- [ ] Remove Nth Node From End of List
+- [ ] Copy List With Random Pointer
+- [ ] Add Two Numbers
+- [ ] Linked List Cycle
+- [ ] Find The Duplicate Number
+- [ ] LRU Cache
+- [ ] Merge K Sorted Lists
+- [ ] Reverse Nodes In K-Group
+
+---
+
+## 7️⃣ Trees (15/15)
+
+- [ ] Invert Binary Tree
+- [ ] Maximum Depth of Binary Tree
+- [ ] Diameter of Binary Tree
+- [ ] Balanced Binary Tree
+- [ ] Same Tree
+- [ ] Subtree of Another Tree
+- [ ] Lowest Common Ancestor of a Binary Search Tree
+- [ ] Binary Tree Level Order Traversal
+- [ ] Binary Tree Right Side View
+- [ ] Count Good Nodes In Binary Tree
+- [ ] Validate Binary Search Tree
+- [ ] Kth Smallest Element In a BST
+- [ ] Construct Binary Tree From Preorder And Inorder Traversal
+- [ ] Binary Tree Maximum Path Sum
+- [ ] Serialize And Deserialize Binary Tree
+
+---
+
+## 8️⃣ Tries (3/3)
+
+- [ ] Implement Trie Prefix Tree
+- [ ] Design Add And Search Words Data Structure
+- [ ] Word Search II
+
+---
+
+## 9️⃣ Heap / Priority Queue (6/7)
+
+- [ ] Kth Largest Element In a Stream
+- [ ] Last Stone Weight
+- [ ] K Closest Points to Origin
+- [ ] Kth Largest Element In an Array
+- [ ] Task Scheduler
+- [ ] Design Twitter
+- [ ] Find Median From Data Stream
+
+---
+
+## 🔟 Backtracking (9/10)
+
+- [ ] Subsets
+- [ ] Combination Sum
+- [ ] Permutations
+- [ ] Subsets II
+- [ ] Combination Sum II
+- [ ] Word Search
+- [ ] Palindrome Partitioning
+- [ ] Letter Combinations of a Phone Number
+- [ ] N Queens
+
+---
+
+## 1️⃣1️⃣ Graphs (13/13)
+
+- [ ] Number of Islands
+- [ ] Clone Graph
+- [ ] Max Area of Island
+- [ ] Pacific Atlantic Water Flow
+- [ ] Surrounded Regions
+- [ ] Rotting Oranges
+- [ ] Walls And Gates
+- [ ] Course Schedule
+- [ ] Course Schedule II
+- [ ] Redundant Connection
+- [ ] Number of Connected Components In An Undirected Graph
+- [ ] Graph Valid Tree
+- [ ] Word Ladder
+
+---
+
+## 1️⃣2️⃣ Advanced Graphs (6/6)
+
+- [ ] Reconstruct Itinerary
+- [ ] Min Cost to Connect All Points
+- [ ] Network Delay Time
+- [ ] Swim In Rising Water
+- [ ] Alien Dictionary
+- [ ] Cheapest Flights Within K Stops
+
+---
+
+## 1️⃣3️⃣ 1-D Dynamic Programming (12/12)
+
+- [ ] Climbing Stairs
+- [ ] Min Cost Climbing Stairs
+- [ ] House Robber
+- [ ] House Robber II
+- [ ] Longest Palindromic Substring
+- [ ] Palindromic Substrings
+- [ ] Decode Ways
+- [ ] Coin Change
+- [ ] Maximum Product Subarray
+- [ ] Word Break
+- [ ] Longest Increasing Subsequence
+- [ ] Partition Equal Subset Sum
+
+---
+
+## 1️⃣4️⃣ 2-D Dynamic Programming (10/11)
+
+- [ ] Unique Paths
+- [ ] Longest Common Subsequence
+- [ ] Best Time to Buy And Sell Stock With Cooldown
+- [ ] Coin Change II
+- [ ] Target Sum
+- [ ] Interleaving String
+- [ ] Longest Increasing Path In a Matrix
+- [ ] Distinct Subsequences
+- [ ] Edit Distance
+- [ ] Burst Balloons
+- [ ] Regular Expression Matching
+
+---
+
+## 1️⃣5️⃣ Greedy (7/8)
+
+- [ ] Maximum Subarray
+- [ ] Jump Game
+- [ ] Jump Game II
+- [ ] Gas Station
+- [ ] Hand of Straights
+- [ ] Merge Triplets to Form Target Triplet
+- [ ] Partition Labels
+- [ ] Valid Parenthesis String
+
+---
+
+## 1️⃣6️⃣ Intervals (5/6)
+
+- [ ] Insert Interval
+- [ ] Merge Intervals
+- [ ] Non Overlapping Intervals
+- [ ] Meeting Rooms
+- [ ] Meeting Rooms II
+- [ ] Minimum Interval to Include Each Query
+
+---
+
+## 1️⃣7️⃣ Math & Geometry (7/8)
+
+- [ ] Rotate Image
+- [ ] Spiral Matrix
+- [ ] Set Matrix Zeroes
+- [ ] Happy Number
+- [ ] Plus One
+- [ ] Pow(x, n)
+- [ ] Multiply Strings
+- [ ] Detect Squares
+
+---
+
+## 1️⃣8️⃣ Bit Manipulation (6/7)
+
+- [ ] Single Number
+- [ ] Number of 1 Bits
+- [ ] Counting Bits
+- [ ] Reverse Bits
+- [ ] Missing Number
+- [ ] Sum of Two Integers
+- [ ] Reverse Integer
+
+---
+
+## 📝 Notes
+- This is the complete NeetCode 150 problem list
+- Total: ~150 problems across 18 categories
+- Some sources may have slight variations in problem counts
+- Click on problem names to visit their LeetCode page (links need to be added)
+- Mark problems as complete by checking the checkbox [x]
+
+## 🎯 Next Steps
+1. Start with Arrays & Hashing - fundamental concepts
+2. Move through categories in order
+3. Track progress by marking completed problems
+4. Review and retry problems you struggled with
+
+---
+
+**Reference**: [NeetCode.io](https://neetcode.io/practice) | [LeetCode](https://leetcode.com/)
