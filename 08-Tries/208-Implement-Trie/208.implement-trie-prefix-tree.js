@@ -65,7 +65,7 @@ class Trie {
             const char = word[i];
 
             // 檢查下一個字是否有存過
-            if (!node.children.hasOwnProperty(char)) return false;
+            if (!node.children[char]) return false;
 
             node = node.children[char];
         }
