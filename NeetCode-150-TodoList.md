@@ -10,7 +10,7 @@
 
 ## 1️⃣ Arrays & Hashing (9/9)
 
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Two Sum
 - [ ] Group Anagrams
@@ -24,7 +24,7 @@
 
 ## 2️⃣ Two Pointers (5/5)
 
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Two Sum II - Input Array Is Sorted
 - [ ] 3Sum
 - [ ] Container With Most Water
@@ -34,7 +34,7 @@
 
 ## 3️⃣ Sliding Window (6/6)
 
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation In String
@@ -45,7 +45,7 @@
 
 ## 4️⃣ Stack (6/7)
 
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
@@ -57,7 +57,7 @@
 
 ## 5️⃣ Binary Search (7/7)
 
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Search In Rotated Sorted Array
@@ -69,7 +69,7 @@
 
 ## 6️⃣ Linked List (11/11)
 
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
@@ -85,12 +85,12 @@
 
 ## 7️⃣ Trees (15/15)
 
-- [ ] Invert Binary Tree
-- [ ] Maximum Depth of Binary Tree
+- [x] Invert Binary Tree
+- [x] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
-- [ ] Same Tree
-- [ ] Subtree of Another Tree
+- [x] Same Tree
+- [x] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
@@ -105,7 +105,7 @@
 
 ## 8️⃣ Tries (3/3)
 
-- [ ] Implement Trie Prefix Tree
+- [x] Implement Trie Prefix Tree
 - [ ] Design Add And Search Words Data Structure
 - [ ] Word Search II
 
@@ -113,7 +113,7 @@
 
 ## 9️⃣ Heap / Priority Queue (6/7)
 
-- [ ] Kth Largest Element In a Stream
+- [x] Kth Largest Element In a Stream
 - [ ] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element In an Array
@@ -125,7 +125,7 @@
 
 ## 🔟 Backtracking (9/10)
 
-- [ ] Subsets
+- [x] Subsets
 - [ ] Combination Sum
 - [ ] Permutations
 - [ ] Subsets II
@@ -139,7 +139,7 @@
 
 ## 1️⃣1️⃣ Graphs (13/13)
 
-- [ ] Number of Islands
+- [x] Number of Islands
 - [ ] Clone Graph
 - [ ] Max Area of Island
 - [ ] Pacific Atlantic Water Flow
@@ -157,7 +157,7 @@
 
 ## 1️⃣2️⃣ Advanced Graphs (6/6)
 
-- [ ] Reconstruct Itinerary
+- [x] Reconstruct Itinerary
 - [ ] Min Cost to Connect All Points
 - [ ] Network Delay Time
 - [ ] Swim In Rising Water
@@ -168,7 +168,7 @@
 
 ## 1️⃣3️⃣ 1-D Dynamic Programming (12/12)
 
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
@@ -185,7 +185,7 @@
 
 ## 1️⃣4️⃣ 2-D Dynamic Programming (10/11)
 
-- [ ] Unique Paths
+- [x] Unique Paths
 - [ ] Longest Common Subsequence
 - [ ] Best Time to Buy And Sell Stock With Cooldown
 - [ ] Coin Change II
@@ -201,7 +201,7 @@
 
 ## 1️⃣5️⃣ Greedy (7/8)
 
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Jump Game
 - [ ] Jump Game II
 - [ ] Gas Station
@@ -214,7 +214,7 @@
 
 ## 1️⃣6️⃣ Intervals (5/6)
 
-- [ ] Insert Interval
+- [x] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non Overlapping Intervals
 - [ ] Meeting Rooms
@@ -225,10 +225,10 @@
 
 ## 1️⃣7️⃣ Math & Geometry (7/8)
 
-- [ ] Rotate Image
+- [x] Rotate Image
 - [ ] Spiral Matrix
 - [ ] Set Matrix Zeroes
-- [ ] Happy Number
+- [x] Happy Number
 - [ ] Plus One
 - [ ] Pow(x, n)
 - [ ] Multiply Strings
@@ -238,7 +238,7 @@
 
 ## 1️⃣8️⃣ Bit Manipulation (6/7)
 
-- [ ] Single Number
+- [x] Single Number
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Reverse Bits

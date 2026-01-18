@@ -6,14 +6,14 @@
 
 ### NeetCode 150 進度
 - **總題數**: 150
-- **已完成**: 16/150 (10.6%)
+- **已完成**: 22/150 (14.7%)
 - **進行中**: 0
 - **待解決**: 134
 
 ### 難度分佈
-- **Easy**: 12/28 (42%)
-- **Medium**: 4/101 (3%)
-- **Hard**: 0/21 (0%)
+- **Easy**: 14/28 (50%)
+- **Medium**: 7/101 (7%)
+- **Hard**: 1/21 (5%)
 
 ### 分類進度
 
@@ -25,17 +25,17 @@
 | Stack | 7 | 1/7 |
 | Binary Search | 7 | 1/7 |
 | Linked List | 11 | 1/11 |
-| Trees | 15 | 1/15 |
+| Trees | 15 | 4/15 |
 | Tries | 3 | 1/3 |
 | Heap / Priority Queue | 7 | 1/7 |
-| Backtracking | 10 | 0/10 |
+| Backtracking | 10 | 1/10 |
 | Graphs | 13 | 1/13 |
-| Advanced Graphs | 6 | 0/6 |
+| Advanced Graphs | 6 | 1/6 |
 | 1-D Dynamic Programming | 12 | 1/12 |
 | 2-D Dynamic Programming | 11 | 1/11 |
 | Greedy | 8 | 1/8 |
 | Intervals | 6 | 1/6 |
-| Math & Geometry | 8 | 1/8 |
+| Math & Geometry | 8 | 2/8 |
 | Bit Manipulation | 7 | 1/7 |
 
 ## 📁 專案結構
