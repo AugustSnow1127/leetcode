@@ -87,13 +87,13 @@
 
 - [x] Invert Binary Tree
 - [x] Maximum Depth of Binary Tree
-- [ ] Diameter of Binary Tree
-- [ ] Balanced Binary Tree
+- [x] Diameter of Binary Tree
+- [x] Balanced Binary Tree
 - [x] Same Tree
 - [x] Subtree of Another Tree
-- [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Binary Tree Level Order Traversal
-- [ ] Binary Tree Right Side View
+- [x] Lowest Common Ancestor of a Binary Search Tree
+- [x] Binary Tree Level Order Traversal
+- [x] Binary Tree Right Side View
 - [ ] Count Good Nodes In Binary Tree
 - [ ] Validate Binary Search Tree
 - [ ] Kth Smallest Element In a BST
@@ -114,7 +114,7 @@
 ## 9️⃣ Heap / Priority Queue (6/7)
 
 - [x] Kth Largest Element In a Stream
-- [ ] Last Stone Weight
+- [x] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element In an Array
 - [ ] Task Scheduler

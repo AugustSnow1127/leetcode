@@ -6,13 +6,13 @@
 
 ### NeetCode 150 進度
 - **總題數**: 150
-- **已完成**: 22/150 (14.7%)
+- **已完成**: 28/150 (18.7%)
 - **進行中**: 0
 - **待解決**: 134
 
 ### 難度分佈
-- **Easy**: 14/28 (50%)
-- **Medium**: 7/101 (7%)
+- **Easy**: 17/28 (61%)
+- **Medium**: 10/101 (10%)
 - **Hard**: 1/21 (5%)
 
 ### 分類進度
@@ -25,9 +25,9 @@
 | Stack | 7 | 1/7 |
 | Binary Search | 7 | 1/7 |
 | Linked List | 11 | 1/11 |
-| Trees | 15 | 4/15 |
+| Trees | 15 | 9/15 |
 | Tries | 3 | 1/3 |
-| Heap / Priority Queue | 7 | 1/7 |
+| Heap / Priority Queue | 7 | 2/7 |
 | Backtracking | 10 | 1/10 |
 | Graphs | 13 | 1/13 |
 | Advanced Graphs | 6 | 1/6 |
