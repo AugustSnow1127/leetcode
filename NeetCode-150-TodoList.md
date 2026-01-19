@@ -94,9 +94,9 @@
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Binary Tree Level Order Traversal
 - [x] Binary Tree Right Side View
-- [ ] Count Good Nodes In Binary Tree
-- [ ] Validate Binary Search Tree
-- [ ] Kth Smallest Element In a BST
+- [x] Count Good Nodes In Binary Tree
+- [x] Validate Binary Search Tree
+- [x] Kth Smallest Element In a BST
 - [ ] Construct Binary Tree From Preorder And Inorder Traversal
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Serialize And Deserialize Binary Tree
