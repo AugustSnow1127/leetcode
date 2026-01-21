@@ -97,9 +97,9 @@
 - [x] Count Good Nodes In Binary Tree
 - [x] Validate Binary Search Tree
 - [x] Kth Smallest Element In a BST
-- [ ] Construct Binary Tree From Preorder And Inorder Traversal
-- [ ] Binary Tree Maximum Path Sum
-- [ ] Serialize And Deserialize Binary Tree
+- [x] Construct Binary Tree From Preorder And Inorder Traversal
+- [x] Binary Tree Maximum Path Sum
+- [x] Serialize And Deserialize Binary Tree
 
 ---
 
