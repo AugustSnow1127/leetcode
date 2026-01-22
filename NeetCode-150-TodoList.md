@@ -127,9 +127,9 @@
 
 - [x] Subsets
 - [x] Combination Sum
-- [ ] Permutations
-- [ ] Subsets II
-- [ ] Combination Sum II
+- [x] Permutations
+- [x] Subsets II
+- [x] Combination Sum II
 - [ ] Word Search
 - [ ] Palindrome Partitioning
 - [ ] Letter Combinations of a Phone Number
