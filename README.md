@@ -22,7 +22,7 @@
 | Arrays & Hashing | 9 | 1/9 |
 | Two Pointers | 5 | 1/5 |
 | Sliding Window | 6 | 1/6 |
-| Stack | 7 | 1/7 |
+| Stack | 6 | 1/6 |
 | Binary Search | 7 | 1/7 |
 | Linked List | 11 | 1/11 |
 | Trees | 15 | 15/15 |
@@ -203,6 +203,6 @@ python -m unittest test_solution -v
 
 ---
 
-**最後更新**: 2026-01-08
+**最後更新**: 2026-01-26
 
 **祝你在 LeetCode 的旅程中順利！加油！💪**

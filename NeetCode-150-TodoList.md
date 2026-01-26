@@ -43,12 +43,11 @@
 
 ---
 
-## 4️⃣ Stack (6/7)
+## 4️⃣ Stack (6/6)
 
 - [x] Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
-- [ ] Generate Parentheses
 - [ ] Daily Temperatures
 - [ ] Car Fleet
 - [ ] Largest Rectangle In Histogram
@@ -134,6 +133,7 @@
 - [x] Palindrome Partitioning
 - [x] Letter Combinations of a Phone Number
 - [x] N Queens
+- [ ] Generate Parentheses
 
 ---
 
