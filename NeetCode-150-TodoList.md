@@ -122,7 +122,7 @@
 
 ---
 
-## 🔟 Backtracking (9/10)
+## 🔟 Backtracking (10/10)
 
 - [x] Subsets
 - [x] Combination Sum
