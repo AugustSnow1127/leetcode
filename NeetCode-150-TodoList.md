@@ -133,7 +133,7 @@
 - [x] Palindrome Partitioning
 - [x] Letter Combinations of a Phone Number
 - [x] N Queens
-- [ ] Generate Parentheses
+- [x] Generate Parentheses
 
 ---
 
