@@ -140,7 +140,7 @@
 ## 1️⃣1️⃣ Graphs (13/13)
 
 - [x] Number of Islands
-- [ ] Clone Graph
+- [x] Clone Graph
 - [ ] Max Area of Island
 - [ ] Pacific Atlantic Water Flow
 - [ ] Surrounded Regions
