@@ -131,9 +131,9 @@
 - [x] Subsets II
 - [x] Combination Sum II
 - [x] Word Search
-- [ ] Palindrome Partitioning
-- [ ] Letter Combinations of a Phone Number
-- [ ] N Queens
+- [x] Palindrome Partitioning
+- [x] Letter Combinations of a Phone Number
+- [x] N Queens
 
 ---
 
