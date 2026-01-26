@@ -141,7 +141,7 @@
 
 - [x] Number of Islands
 - [x] Clone Graph
-- [ ] Max Area of Island
+- [x] Max Area of Island
 - [ ] Pacific Atlantic Water Flow
 - [ ] Surrounded Regions
 - [ ] Rotting Oranges
