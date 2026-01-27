@@ -6,9 +6,9 @@
 
 ### NeetCode 150 進度
 - **總題數**: 150
-- **已完成**: 45/150 (30.0%)
+- **已完成**: 46/150 (30.7%)
 - **進行中**: 0
-- **待解決**: 105
+- **待解決**: 104
 
 ### 難度分佈
 - **Easy**: 17/28 (61%)
@@ -29,7 +29,7 @@
 | Tries | 3 | 1/3 |
 | Heap / Priority Queue | 7 | 2/7 |
 | Backtracking | 10 | 10/10 |
-| Graphs | 13 | 3/13 |
+| Graphs | 13 | 4/13 |
 | Advanced Graphs | 6 | 1/6 |
 | 1-D Dynamic Programming | 12 | 1/12 |
 | 2-D Dynamic Programming | 11 | 1/11 |
