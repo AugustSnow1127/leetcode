@@ -3,18 +3,18 @@
 ## 📊 Progress Summary
 - **Total Problems**: 150
 - **Easy**: 19/28
-- **Medium**: 30/101
+- **Medium**: 32/101
 - **Hard**: 4/21
 
 ---
 
-## 1️⃣ Arrays & Hashing (4/9)
+## 1️⃣ Arrays & Hashing (6/9)
 
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
-- [ ] Group Anagrams
-- [ ] Top K Frequent Elements
+- [x] Group Anagrams
+- [x] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
