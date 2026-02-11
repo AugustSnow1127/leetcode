@@ -2,23 +2,23 @@
 
 ## 📊 Progress Summary
 - **Total Problems**: 150
-- **Easy**: 0/28
-- **Medium**: 0/101
-- **Hard**: 0/21
+- **Easy**: 19/28
+- **Medium**: 30/101
+- **Hard**: 4/21
 
 ---
 
-## 1️⃣ Arrays & Hashing (9/9)
+## 1️⃣ Arrays & Hashing (4/9)
 
 - [x] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Two Sum
+- [x] Valid Anagram
+- [x] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
-- [ ] Longest Consecutive Sequence
+- [x] Longest Consecutive Sequence
 
 ---
 
@@ -137,16 +137,16 @@
 
 ---
 
-## 1️⃣1️⃣ Graphs (13/13)
+## 1️⃣1️⃣ Graphs (7/13)
 
 - [x] Number of Islands
 - [x] Clone Graph
 - [x] Max Area of Island
 - [x] Pacific Atlantic Water Flow
-- [ ] Surrounded Regions
+- [x] Surrounded Regions
 - [x] Rotting Oranges
 - [ ] Walls And Gates
-- [ ] Course Schedule
+- [x] Course Schedule
 - [ ] Course Schedule II
 - [ ] Redundant Connection
 - [ ] Number of Connected Components In An Undirected Graph
