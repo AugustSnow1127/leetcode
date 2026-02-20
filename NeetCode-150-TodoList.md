@@ -3,19 +3,19 @@
 ## 📊 Progress Summary
 - **Total Problems**: 150
 - **Easy**: 19/28
-- **Medium**: 32/101
+- **Medium**: 33/101
 - **Hard**: 4/21
 
 ---
 
-## 1️⃣ Arrays & Hashing (6/9)
+## 1️⃣ Arrays & Hashing (7/9)
 
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
 - [x] Longest Consecutive Sequence
