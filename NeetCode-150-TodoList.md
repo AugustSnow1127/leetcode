@@ -3,7 +3,7 @@
 ## 📊 Progress Summary
 - **Total Problems**: 150
 - **Easy**: 19/28
-- **Medium**: 35/101
+- **Medium**: 36/101
 - **Hard**: 4/21
 
 ---
@@ -32,12 +32,12 @@
 
 ---
 
-## 3️⃣ Sliding Window (3/6)
+## 3️⃣ Sliding Window (4/6)
 
 - [x] Best Time to Buy and Sell Stock
 - [x] Longest Substring Without Repeating Characters
 - [x] Longest Repeating Character Replacement
-- [ ] Permutation In String
+- [x] Permutation In String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
 
